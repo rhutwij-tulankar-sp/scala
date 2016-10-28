@@ -1,4 +1,4 @@
-name := """apache-spark-2-scala-starter-template"""
+name := """apache-spark2-scala2.11.8-starter"""
 
 version := "1.0"
 
